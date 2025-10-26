@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Dušan Pavlović 👋
 
 <!--
 **dusanpavl0vic/dusanpavl0vic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
